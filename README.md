@@ -55,6 +55,11 @@ Cada acción (agregar, mostrar, eliminar, sortear) se hace con funciones que act
 
 <hr/>
 
-
+<h2>✨ Tecnologías usadas</h2>
+<ul>
+  <li>HTML → para la estructura</li>
+  <li>CSS → para los estilos</li>
+  <li>JavaScript → para la lógica del juego</li>
+</ul>
 
 
