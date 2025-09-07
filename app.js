@@ -19,11 +19,11 @@ function agregarAmigo() {
 // Función para mostrar la lista de amigos
 function mostrarAmigos() {
     let lista = document.getElementById("listaAmigos");
-    lista.innerHTML = ""; // Limpiar lista antes de volver a agregar
+    lista.innerHTML = ""; 
 
     for (let i = 0; i < amigos.length; i++) {
         let li = document.createElement("li");
-        li.textContent = amigos[i] + " "; // dejamos espacio para el botón ❌
+        li.textContent = amigos[i] + " "; 
 
         // Crear botón de eliminar
         let btnEliminar = document.createElement("button");
@@ -43,8 +43,8 @@ function mostrarAmigos() {
 
 // Función para eliminar un amigo de la lista
 function eliminarAmigo(indice) {
-    amigos.splice(indice, 1); // Elimina el elemento en la posición indicada
-    mostrarAmigos(); // Actualizamos la lista en pantalla
+    amigos.splice(indice, 1); 
+    mostrarAmigos(); 
 }
 
 // Función para sortear un amigo secreto
