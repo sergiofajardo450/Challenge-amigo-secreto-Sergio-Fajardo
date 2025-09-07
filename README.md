@@ -2,6 +2,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
 </p>
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" alt="JavaScript Badge">
 
 <p>Este es un proyecto sencillo y divertido en JavaScript que te permite:</p>
 <ul>
