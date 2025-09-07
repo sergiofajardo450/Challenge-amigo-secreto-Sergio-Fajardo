@@ -63,11 +63,4 @@ Cada acción (agregar, mostrar, eliminar, sortear) se hace con funciones que act
 
 <hr/>
 
-<h2>💡 Tip extra</h2>
-<p>Si quieres practicar, puedes agregar mejoras como:</p>
-<ul>
-  <li>Evitar que se repitan nombres</li>
-  <li>Mostrar un contador de cuántos amigos llevas agregados</li>
-  <li>Guardar la lista en <code>localStorage</code> para que no se pierda al recargar</li>
-</ul>
 
